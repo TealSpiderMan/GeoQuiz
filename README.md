@@ -1,4 +1,5 @@
 # GeoQuiz
+![image](https://github.com/user-attachments/assets/16532083-1e99-4d52-8c15-72c33364c4de)
 
 GeoQuiz is a simple Android quiz application that challenges users with geography-based questions. It is built using Kotlin and leverages the ConstraintLayout for its UI design.
 
@@ -11,6 +12,8 @@ GeoQuiz is a simple Android quiz application that challenges users with geograph
 - **Quiz Reset**: Reset the quiz at any time to start fresh.
 - **Result Summary**: View a summary of your performance at the end of the quiz.
 - **Cheat Token Management**: Users start with 3 cheat tokens, which decrement with each use.
+  
+![image](https://github.com/user-attachments/assets/5222bbfd-4818-4d90-b47f-d1e99d37de4d)
 
 ## Installation
 
