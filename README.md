@@ -28,8 +28,7 @@ GeoQuiz is a simple Android quiz application that challenges users with geograph
 
 ![image](https://github.com/user-attachments/assets/5222bbfd-4818-4d90-b47f-d1e99d37de4d)
 ![image](https://github.com/user-attachments/assets/e3af4a66-4bba-4ce8-9e62-d0e003a1ea3a)
-![image](https://github.com/user-attachments/assets/62f9b456-6195-49d7-973d-411aa30cd375)
-
+![image](https://github.com/user-attachments/assets/1aa343dc-2b37-4a69-b6b0-bb34bbc5f684)
 
 ## Code Highlights
 
