@@ -64,8 +64,6 @@ GeoQuiz is a simple Android quiz application that challenges users with geograph
 
 - Add more questions.
 - Include categories for questions.
-- Implement a timer for each question.
-- Add visual feedback for correct and incorrect answers.
 
 ---
 
