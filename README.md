@@ -13,7 +13,6 @@ GeoQuiz is a simple Android quiz application that challenges users with geograph
 - **Result Summary**: View a summary of your performance at the end of the quiz.
 - **Cheat Token Management**: Users start with 3 cheat tokens, which decrement with each use.
   
-![image](https://github.com/user-attachments/assets/5222bbfd-4818-4d90-b47f-d1e99d37de4d)
 
 ## Installation
 
@@ -27,7 +26,10 @@ GeoQuiz is a simple Android quiz application that challenges users with geograph
 
 ## Screenshots
 
-_Add screenshots here to showcase your app’s interface and features._
+![image](https://github.com/user-attachments/assets/5222bbfd-4818-4d90-b47f-d1e99d37de4d)
+![image](https://github.com/user-attachments/assets/e3af4a66-4bba-4ce8-9e62-d0e003a1ea3a)
+![image](https://github.com/user-attachments/assets/62f9b456-6195-49d7-973d-411aa30cd375)
+
 
 ## Code Highlights
 
